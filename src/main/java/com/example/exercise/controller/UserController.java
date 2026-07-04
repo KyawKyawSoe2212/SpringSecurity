@@ -54,7 +54,7 @@ public class UserController {
     
     @GetMapping("/gitTest")
     public String getMethodName() {
-        return "Welcome to GitHub form KKS02!";
+        return "Welcome to GitHub from KKS01!";
     }
 
 
